@@ -1,7 +1,7 @@
 - Hello, I’m @malex37
 - I'm currently a minion for big tech, and I am just here to learn and test new stuff
 - I guess I'm a web dev now...
-- 📫 How to reach me ... ma.lex@outlook.com I suppose
+- 📫 How to reach me ... malex@iammalex.com I suppose
 
 <!---
 malex37/malex37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
